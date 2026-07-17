@@ -46,23 +46,19 @@ The AI Study Planner generates personalized study schedules, prioritizes tasks b
 ## Screenshots
 
 ### Dashboard
+![Dashboard](dashboard.png)
 
-(Add dashboard screenshot)
+### Assignment Manager
+![Assignment Manager](assignment.png)
 
-### Login Page
-
-(Add login screenshot)
-
-### Calendar
-
-(Add calendar screenshot)
+### Study Planner
+![Study Planner](study-planner.png)
 
 ### Progress Tracker
+![Progress Tracker](progress-tracker.png)
 
-(Add progress screenshot)
-
----
-
+### Profile
+![Profile](profile.png)
 ## Live Prototype
 
 Paste your Lovable link here.
