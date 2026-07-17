@@ -61,12 +61,7 @@ The AI Study Planner generates personalized study schedules, prioritizes tasks b
 ![Profile](profile.png)
 ## Live Prototype
 
-Paste your Lovable link here.
-
-Example:
-
-https://your-project-name.lovable.app
-
+https://artificialintelligence-study-planneri.lovable.app
 ---
 
 ## Future Enhancements
